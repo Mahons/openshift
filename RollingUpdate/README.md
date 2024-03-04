@@ -1,0 +1,1 @@
+https://developers.redhat.com/learn/openshift/update-openshift-applications-zero-downtime-using-single-command
